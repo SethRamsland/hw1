@@ -1,0 +1,6 @@
+jupyter
+graphviz
+
+[dev]
+black
+nbformat
