@@ -1,0 +1,4 @@
+go up
+get key
+unlock door
+go up
